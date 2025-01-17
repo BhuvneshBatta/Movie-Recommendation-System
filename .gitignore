@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Allow specific files
+!new.ipynb
+!new.jpg
+!README.txt
+
+# Allow directories to ensure files inside can be selectively included
+!*/
